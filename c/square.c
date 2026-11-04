@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 int main(void) {
-    int sample = 0; /* daily-input */
+    int sample = 668; /* daily-input */
     printf("%d\n", sample * sample);
     return 0;
 }
