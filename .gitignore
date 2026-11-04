@@ -1,0 +1,10 @@
+.automation/
+*.exe
+*.class
+*.dll
+*.pdb
+*.o
+*.obj
+__pycache__/
+bin/
+obj/
