@@ -3,7 +3,7 @@ using System;
 
 public class Square {
     public static void Main() {
-        int sample = 683; // daily-input
+        int sample = 708; // daily-input
         Console.WriteLine(sample * sample);
     }
 }
