@@ -3,7 +3,7 @@ using System;
 
 public class Triangle {
     public static void Main() {
-        int sample = 710; // daily-input
+        int sample = 735; // daily-input
         Console.WriteLine(sample * (sample + 1) / 2);
     }
 }
