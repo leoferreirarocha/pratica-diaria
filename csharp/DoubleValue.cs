@@ -3,7 +3,7 @@ using System;
 
 public class DoubleValue {
     public static void Main() {
-        int sample = 762; // daily-input
+        int sample = 787; // daily-input
         Console.WriteLine(sample * 2);
     }
 }
