@@ -2,7 +2,7 @@
 #include <iostream>
 
 int main() {
-    int sample = 778; // daily-input
+    int sample = 828; // daily-input
     std::cout << (sample * sample) << '\n';
     return 0;
 }
