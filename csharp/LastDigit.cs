@@ -3,7 +3,7 @@ using System;
 
 public class LastDigit {
     public static void Main() {
-        int sample = 836; // daily-input
+        int sample = 861; // daily-input
         Console.WriteLine(sample % 10);
     }
 }
