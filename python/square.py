@@ -1,3 +1,3 @@
 # Square of a number. Input updated by the daily automation.
-sample = 838  # daily-input
+sample = 863  # daily-input
 print(sample * sample)
