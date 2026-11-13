@@ -1,3 +1,3 @@
 # Last digit of a nonnegative integer. Input updated by the daily automation.
-sample = 866  # daily-input
+sample = 891  # daily-input
 print(sample % 10)
