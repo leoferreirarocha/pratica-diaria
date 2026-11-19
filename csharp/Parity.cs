@@ -3,7 +3,7 @@ using System;
 
 public class Parity {
     public static void Main() {
-        int sample = 12; // daily-input
+        int sample = 62; // daily-input
         Console.WriteLine(sample % 2);
     }
 }
