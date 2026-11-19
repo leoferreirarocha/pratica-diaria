@@ -1,3 +1,3 @@
 # Double of a number. Input updated by the daily automation.
-sample = 992  # daily-input
+sample = 45  # daily-input
 print(sample * 2)
